@@ -29,7 +29,7 @@ def ex_id(id):
     return result
 
 
-bot = telebot.AsyncTeleBot("5177380044:AAEDRjr_lC74s6EHI7yyO846Mdnw1_Wqno4")
+bot = telebot.AsyncTeleBot("5677831426:AAFpaXu2dNhS_hs5DTQBT-ID_KXiLGTWaHM")
 
 @bot.message_handler(commands=['start'])
 def start(message):
