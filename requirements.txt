@@ -53,3 +53,7 @@ user-agent==0.1.10
 uuid==1.30
 
 webencodings==0.5.1
+
+pyTelegramBotAPI==3.7.6
+
+telebot==0.0.4
